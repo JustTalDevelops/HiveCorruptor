@@ -1,0 +1,7 @@
+name: iHateHive
+author: Tal
+website: https://github.com/JustTalDevelops
+description: A plugin that stops your players from joining the Hive.
+version: 1.0.0
+main: tal\ihatehive\Main
+api: 5.0.0
