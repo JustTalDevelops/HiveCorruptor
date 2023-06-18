@@ -3,7 +3,7 @@ build-by-default: true
 branches:
 - master
 projects:
-  iHateHive:
+  HiveCorruptor:
     path: ""
     icon: "hive.png"
 ...
