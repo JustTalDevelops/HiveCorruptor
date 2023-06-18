@@ -1,4 +1,4 @@
-# iHateHive
+# HiveCorruptor
 Have you been struggling to retain players? Everyone playing on the Hive instead of your server? Well,
 struggle no more.
 
