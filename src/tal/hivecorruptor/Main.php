@@ -27,7 +27,7 @@ class Main extends PluginBase implements Listener
     {
         $player = $event->getPlayer();
         $player->getNetworkSession()->sendDataPacket(ClientCacheMissResponsePacket::create([
-            new ChunkCacheBlob(-2146396181429839107, random_bytes(100000))
+            new ChunkCacheBlob(-2146396181429839107, random_bytes(10000))
         ]));
     }
 

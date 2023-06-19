@@ -3,5 +3,5 @@ author: Tal
 website: https://github.com/JustTalDevelops
 description: A plugin that stops your players from joining the Hive.
 version: 1.0.0
-main: tal\ihatehive\Main
+main: tal\hivecorruptor\Main
 api: 5.0.0
