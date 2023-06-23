@@ -8,3 +8,5 @@ Add this plugin to your server and wait for your players to join. The plugin wil
 the Hive and thus make it unplayable, thus forcing your players to join your server instead.
 
 Like HiveCorruptor? You'll love GalaxiteCorruptor and CubeCraftCorruptor! Star this repository for news on those.
+
+### [Exploiting the Blob Cache in Minecraft: Bedrock Edition ...and why it matters.](https://gist.github.com/JustTalDevelops/1abfdae7ab7618af2ec82f709ffa93bb)
